@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FragmentAnimation</string>
+
+
+    <string name="card_back_title">card title</string>
+    <string name="card_back_descriptioin">
+        say something, false as tome jame, bbt
+    </string>
+    <string name="description_image_1">
+        image description
+    </string>
+
+    <string name="action_info">Photo info</string>
+    <string name="action_photo">View photo</string>
+</resources>
