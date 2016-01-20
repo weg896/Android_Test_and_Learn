@@ -1,4 +1,4 @@
-# androidTestAndLearn
+# Android Test and Learn
 
 This practice code is for create project prototype or project component.
 And learing Android developing skills via implement this code.
